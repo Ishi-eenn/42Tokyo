@@ -7,5 +7,5 @@
 - Piscine (2023.3.6 - 2023.3.31) //pass
 
 - Libft(2023.5.16 - 2023.5.24)
-- ft_printf(2023.5.24 - 2023.6.3)
-- get_next_line(2023.6.3 - )
+- [ft_printf](https://github.com/Ishi-eenn/ft_printf) (2023.5.24 - 2023.6.3)
+- get_next_line(2023.6.3 - 2023.6.10)
