@@ -13,3 +13,6 @@
 
 [get_next_line](https://github.com/Ishi-eenn/get_next_line) (2023.6.3 - 2023.6.10) 
 [![tsishika's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3101675)](https://github.com/JaeSeoKim/badge42)
+
+[Born2beroot](https://github.com/Ishi-eenn/Born2beroot) (2023.6.11 - ) 
+[![tsishika's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3101676)](https://github.com/JaeSeoKim/badge42)
