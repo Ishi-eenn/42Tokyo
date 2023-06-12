@@ -5,7 +5,9 @@
 
 - Piscine (2023.3.6 - 2023.3.31) //pass
 
-- [Libft](https://github.com/Ishi-eenn/Libft) (2023.5.16 - 2023.5.24)
+[Libft](https://github.com/Ishi-eenn/Libft) (2023.5.16 - 2023.5.24)
+[![tsishika's 42 Libft Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3093808)](https://github.com/JaeSeoKim/badge42)
+
 [ft_printf](https://github.com/Ishi-eenn/ft_printf) (2023.5.24 - 2023.6.3)
 [![tsishika's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3101674)](https://github.com/JaeSeoKim/badge42)
 
