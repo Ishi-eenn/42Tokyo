@@ -7,7 +7,7 @@ This is a record of my 42Tokyo.
 [![tsishika's 42 stats](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/stats?cursusId=9&coalitionId=62)](https://github.com/JaeSeoKim/badge42)
 
 ---
-### 42cursus (2023.5.16 ~ )
+### cursus (2023.5.16 ~ )
 
 [![tsishika's 42 stats](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/stats?cursusId=21&coalitionId=307)](https://github.com/JaeSeoKim/badge42)
 
