@@ -17,7 +17,7 @@ This is a record of my 42Tokyo.
 | [ft_printf](https://github.com/Ishi-eenn/ft_printf) | [![tsishika's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3101674)](https://github.com/JaeSeoKim/badge42) | 2023.5.24 - 2023.6.3 |
 | [get_next_line](https://github.com/Ishi-eenn/get_next_line) | [![tsishika's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3101675)](https://github.com/JaeSeoKim/badge42) | 2023.6.3 - 2023.6.10 |
 | [Born2beroot](https://github.com/Ishi-eenn/Born2beroot) | [![tsishika's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3101676)](https://github.com/JaeSeoKim/badge42) | 2023.6.11 - 2023.6.17|
-| [push_swap](https://github.com/Ishi-eenn/push_swap)| [![tsishika's 42 push_swap Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3124584)](https://github.com/JaeSeoKim/badge42) | 2023.6.18 - |
+| [push_swap](https://github.com/Ishi-eenn/push_swap)| [![tsishika's 42 push_swap Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3124584)](https://github.com/JaeSeoKim/badge42) | 2023.6.18 - 2023.6.27|
 
 
 ---
