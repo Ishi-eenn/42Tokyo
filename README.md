@@ -21,6 +21,7 @@ This is a record of my 42Tokyo.
 | [Pipex](https://github.com/Ishi-eenn/Pipex)| [![tsishika's 42 pipex Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3188117)](https://github.com/JaeSeoKim/badge42) | 2023.07.07 - 2023.07.22 |
 | Exam Rank 02 | [![tsishika's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3124582)](https://github.com/JaeSeoKim/badge42) | 2023.8.12  |
 | [FDF](https://github.com/Ishi-eenn/FDF) |  | 2023.8.3 - 2023.8.23 |
+| minishell |  | 2023.8.24 - |
 
 ---
 ### Reloaded
