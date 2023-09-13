@@ -22,6 +22,8 @@ This is a record of my 42Tokyo.
 | [![FDF](https://github.com/byaliego/42-project-badges/blob/main/badges/fdfm.png)]() |  | 2023.8.3 - 2023.8.23 |
 | [![minishell](https://github.com/byaliego/42-project-badges/blob/main/badges/minishelln.png)](https://github.com/K4-R4/minishell) |  | 2023.8.24 - |
 
+Badges are available at [https://github.com/byaliego/42-project-badges](https://github.com/byaliego/42-project-badges)
+
 ---
 ### Exam
 | Project | Score | Date |
