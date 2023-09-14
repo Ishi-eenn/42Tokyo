@@ -13,13 +13,13 @@ This is a record of my 42Tokyo.
 
 | Project | Score | Date |
 | :---: | :---: | :---: |
-| [![Libft](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/libftm.png)](https://github.com/Ishi-eenn/Libft) | [![tsishika's 42 Libft Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3093808)](https://github.com/JaeSeoKim/badge42) | 2023.05.16 - 2023.05.24 |
+| [![Libft](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/libftm.png)](https://github.com/Ishi-eenn/Libft) | <img alt="Libft score" height="130px" src="https://github.com/Ishi-eenn/42_my_logs/blob/main/score/125.png" /> | 2023.05.16 - 2023.05.24 |
 | [![ft_printf](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/ft_printfe.png)](https://github.com/Ishi-eenn/ft_printf) | [![tsishika's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3101674)](https://github.com/JaeSeoKim/badge42) | 2023.05.24 - 2023.06.03 |
-| [![get_next_line](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/get_next_linem.png)](https://github.com/Ishi-eenn/get_next_line) | [![tsishika's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3101675)](https://github.com/JaeSeoKim/badge42) | 2023.06.03 - 2023.06.10 |
+| [![get_next_line](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/get_next_linem.png)](https://github.com/Ishi-eenn/get_next_line) | <img alt="get next line score" height="130px" src="https://github.com/Ishi-eenn/42_my_logs/blob/main/score/125.png" /> | 2023.06.03 - 2023.06.10 |
 | [![Born2beroot](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/born2beroote.png)](https://github.com/Ishi-eenn/Born2beroot) | [![tsishika's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3101676)](https://github.com/JaeSeoKim/badge42) | 2023.06.11 - 2023.06.17 |
-| [![push_swap](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/push_swapm.png)](https://github.com/Ishi-eenn/push_swap) | [![tsishika's 42 push_swap Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3124584)](https://github.com/JaeSeoKim/badge42) | 2023.06.18 - 2023.07.04 |
+| [![push_swap](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/push_swapm.png)](https://github.com/Ishi-eenn/push_swap) | <img alt="push_swap score" height="130px" src="https://github.com/Ishi-eenn/42_my_logs/blob/main/score/125.png" /> | 2023.06.18 - 2023.07.04 |
 | [![Pipex](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/pipexe.png)](https://github.com/Ishi-eenn/Pipex) | [![tsishika's 42 pipex Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3188117)](https://github.com/JaeSeoKim/badge42) | 2023.07.07 - 2023.07.22 |
-| [![FDF](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/fdfm.png)]() |  | 2023.8.3 - 2023.8.23 |
+| [![FDF](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/fdfm.png)]() | <img alt="FDF score" height="130px" src="https://github.com/Ishi-eenn/42_my_logs/blob/main/score/125.png" /> | 2023.8.3 - 2023.8.23 |
 | [![minishell](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/minishelln.png)](https://github.com/K4-R4/minishell) |  | 2023.8.24 - |
 
 Badges are available at [https://github.com/byaliego/42-project-badges](https://github.com/byaliego/42-project-badges)
