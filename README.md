@@ -20,7 +20,7 @@ This is a record of my 42Tokyo.
 | [![push_swap](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/push_swapm.png)](https://github.com/Ishi-eenn/push_swap) | <img alt="push_swap score" height="130px" src="https://github.com/Ishi-eenn/42_my_logs/blob/main/score/125.png" /> | 2023.06.18 - 2023.07.04 |
 | [![Pipex](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/pipexe.png)](https://github.com/Ishi-eenn/Pipex) | <img alt="Pipex score" height="130px" src="https://github.com/Ishi-eenn/42_my_logs/blob/main/score/100.png" /> | 2023.07.07 - 2023.07.22 |
 | [![FDF](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/fdfm.png)]() | <img alt="FDF score" height="130px" src="https://github.com/Ishi-eenn/42_my_logs/blob/main/score/125.png" /> | 2023.8.3 - 2023.8.23 |
-| [![minishell](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/K4-R4/minishell) |  | 2023.8.24 - 2023.10.15 |
+| [![minishell](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/K4-R4/minishell) | <img alt="FDF score" height="130px" src="https://github.com/Ishi-eenn/42_my_logs/blob/main/score/101.png" /> | 2023.8.24 - 2023.10.15 |
 | [![Philosophers](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/philosophersn.png)](https://github.com/Ishi-eenn/Philosophers) |  | 2023.10.16 - |
 
 Badges are available at [https://github.com/byaliego/42-project-badges](https://github.com/byaliego/42-project-badges)
