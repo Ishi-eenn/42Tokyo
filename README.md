@@ -30,6 +30,7 @@ Badges are available at [https://github.com/byaliego/42-project-badges](https://
 | Project | Score | Date |
 | :---: | :---: | :---: |
 | Exam Rank 02 | [![tsishika's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3124582)](https://github.com/JaeSeoKim/badge42) | 2023.8.12  |
+| Exam Rank 03 | [![tsishika's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3124582)](https://github.com/JaeSeoKim/badge42) | 2023.8.24  |
 ---
 ### Reloaded
 
