@@ -21,7 +21,7 @@ This is a record of my 42Tokyo.
 | [![Pipex](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/pipexe.png)](https://github.com/Ishi-eenn/Pipex) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276"> | 2023.07.07 - 2023.07.22 |
 | [![FDF](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/fdfm.png)]() | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088"> | 2023.8.3 - 2023.8.23 |
 | [![minishell](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/K4-R4/minishell) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/557a0557-4840-4081-a58e-6462aebca1d8"> | 2023.8.24 - 2023.10.15 |
-| [![Philosophers](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/philosophersn.png)](https://github.com/Ishi-eenn/Philosophers) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276"> | 2023.10.16 - 2023.11.21 |
+| [![Philosophers](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/philosopherse.png)](https://github.com/Ishi-eenn/Philosophers) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276"> | 2023.10.16 - 2023.11.21 |
 
 Badges are available at [https://github.com/byaliego/42-project-badges](https://github.com/byaliego/42-project-badges)
 
