@@ -24,6 +24,7 @@ This is a record of my 42Tokyo.
 | [![Philosophers](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/philosophersn.png)](https://github.com/Ishi-eenn/Philosophers) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276"> | 2023.10.16 - 2023.11.21 |
 
 Badges are available at [https://github.com/byaliego/42-project-badges](https://github.com/byaliego/42-project-badges)
+Scores are available at [https://github.com/Mori062/42](https://github.com/Mori062/42/issues?q=is%3Aissue+is%3Aclosed)
 
 ---
 ### Exam
