@@ -24,7 +24,7 @@ This is a record of my 42Tokyo.
 | [![Philosophers](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/philosopherse.png)](https://github.com/Ishi-eenn/Philosophers) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276"> | 2023.10.16 - 2023.11.21 |
 | [![CPP](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/cppn.png)](https://github.com/Ishi-eenn/CPP-Module) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/2d0d512e-dcd3-4cdf-bb6c-05c88af89de3"> | (cpp00) 2023.11.23 -  |
 | [![NetPractice](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/netpracticen.png)](https://github.com/Ishi-eenn/NetPractice) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/2d0d512e-dcd3-4cdf-bb6c-05c88af89de3"> | - |
-| [![miniRT](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/minirtn.png)](https://github.com/Ishi-eenn/miniRT) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/2d0d512e-dcd3-4cdf-bb6c-05c88af89de3"> | - |
+| [![miniRT](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/minirtn.png)](https://github.com/Ishi-eenn/miniRT) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/2d0d512e-dcd3-4cdf-bb6c-05c88af89de3"> | 2023.11.23 - |
 
 Badges are available at [https://github.com/byaliego/42-project-badges](https://github.com/byaliego/42-project-badges)
 
