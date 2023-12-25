@@ -4,12 +4,12 @@ This is a record of my 42Tokyo.
 
 ### Piscine (2023.3.6 ~ 2023.3.31)
 
-[![tsishika's 42 stats](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/stats?cursusId=9&coalitionId=62)](https://github.com/JaeSeoKim/badge42)
+[![tsishika's 42 stats](https://badge42.coday.fr/api/v2/clqkv28a0122101p49l97gk4c/stats?cursusId=9&coalitionId=62)](https://github.com/Coday-meric/badge42)
 
 ---
 ### Cursus (2023.5.16 ~ )
 
-[![tsishika's 42 stats](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/stats?cursusId=21&coalitionId=307)](https://github.com/JaeSeoKim/badge42)
+[![tsishika's 42 stats](https://badge42.coday.fr/api/v2/clqkv28a0122101p49l97gk4c/stats?cursusId=21&coalitionId=307)](https://github.com/Coday-meric/badge42)
 
 | Project | Score | Date |
 | :---: | :---: | :---: |
@@ -39,7 +39,7 @@ Scores are available at [https://github.com/Mori062/42](https://github.com/Mori0
 ---
 ### Reloaded
 
-[![tsishika's 42 stats](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/stats?cursusId=28&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+[![tsishika's 42 stats](https://badge42.coday.fr/api/v2/clqkv28a0122101p49l97gk4c/stats?cursusId=28&coalitionId=undefined)](https://github.com/Coday-meric/badge42)
 
 | Project | Score | Date |
 | :---: | :---: | :---: |
