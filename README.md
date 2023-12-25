@@ -45,4 +45,4 @@ Scores are available at [https://github.com/Mori062/42](https://github.com/Mori0
 
 | Project | Score | Date |
 | :---: | :---: | :---: |
-| [Hello_node]() | [![tsishika's 42 hello_node Score](https://badge42.vercel.app/api/v2/clisj76ld001108l1qb24uba8/project/3110700)](https://github.com/JaeSeoKim/badge42) | 2023.6.6 ~ |
+| [Hello_node]() | [![tsishika's 42 hello_node Score](https://badge42.coday.fr/api/v2/clqkv28a0122101p49l97gk4c/project/3110700)](https://github.com/Coday-meric/badge42) | 2023.6.6 ~ |
