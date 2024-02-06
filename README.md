@@ -45,7 +45,8 @@ Scores are available at [https://github.com/Mori062/42](https://github.com/Mori0
 
 | Project | Score | Date |
 | :---: | :---: | :---: |
-| [Hello_node]() | [![tsishika's 42 hello_node Score](https://badge42.coday.fr/api/v2/clqkv28a0122101p49l97gk4c/project/3110700)](https://github.com/Coday-meric/badge42) | 2023.6.6 ~ |
+| refactor_tetris | [![tsishika's 42 refactor_tetris Score](https://badge42.coday.fr/api/v2/clqkv28a0122101p49l97gk4c/project/3475094)](https://github.com/Coday-meric/badge42) | 2024.2.3 - 2024.2.4 |
+| [Hello_node]() | [![tsishika's 42 hello_node Score](https://badge42.coday.fr/api/v2/clqkv28a0122101p49l97gk4c/project/3110700)](https://github.com/Coday-meric/badge42) | 2023.6.6 - |
 
 ---
 ## Event
