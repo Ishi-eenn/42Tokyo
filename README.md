@@ -1,16 +1,27 @@
 # 42_my_logs
 
-This is a record of my 42Tokyo.
+## Event
 
-## Piscine (2023.3.6 ~ 2023.3.31)
+<details><summary>TOYOTA × 42 Tokyo共催 自動運転ミニカーバトル (2023.11.26 - 2024.1.26)</summary>
+  
+### TOYOTA × 42 Tokyo共催 自動運転ミニカーバトル (2023.11.26 - 2024.1.26)
+>_⚡️『自動運転ミニカーバトル』開催⚡️
+電子制御できるミニカーを作り、レースタイムを競います🚗⏱️_ <br>
+URL : <a href ="https://twitter.com/42_tokyo/status/1750825814948729326">運営ポスト</a>　<br>
 
-[![tsishika's 42 stats](https://badge42.coday.fr/api/v2/clqkv28a0122101p49l97gk4c/stats?cursusId=9&coalitionId=62)](https://github.com/Coday-meric/badge42)
+- 優勝  /  全15チーム
+- チームメンバー : <a href ="https://github.com/ssmyg">syagi</a> <a href ="https://github.com/tkuramot">tkuramot</a> <a href ="https://github.com/shmorish">shmorish</a>
+- チームアカウント : <a href ="https://github.com/TOYOTA-Rebellious-cat-bus"><b>反コウ期のネコバス
+
+</details>
 
 ---
 ## Cursus (2023.5.16 ~ )
 
 [![tsishika's 42 stats](https://badge42.coday.fr/api/v2/clqkv28a0122101p49l97gk4c/stats?cursusId=21&coalitionId=307)](https://github.com/Coday-meric/badge42)
 
+<details><summary>課題一覧</summary>
+  
 | Project | Score | Date |
 | :---: | :---: | :---: |
 | [![Libft](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/libftm.png)](https://github.com/Ishi-eenn/Libft) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088"> | 2023.05.16 - 2023.05.24 |
@@ -38,23 +49,23 @@ Scores are available at [https://github.com/Mori062/42](https://github.com/Mori0
 | Exam Rank 03 | [![tsishika's 42 Exam Rank 03 Score](https://badge42.coday.fr/api/v2/clqkv28a0122101p49l97gk4c/project/3239718)](https://github.com/Coday-meric/badge42) | 2023.8.24  |
 | Exam Rank 04 | [![tsishika's 42 Exam Rank 04 Score](https://badge42.coday.fr/api/v2/clqkv28a0122101p49l97gk4c/project/3418821)](https://github.com/Coday-meric/badge42) | 2023.11.25  |
 
+</details>
+
 ---
 ## Reloaded
 
 [![tsishika's 42 stats](https://badge42.coday.fr/api/v2/clqkv28a0122101p49l97gk4c/stats?cursusId=28&coalitionId=undefined)](https://github.com/Coday-meric/badge42)
+
+<details><summary>課題一覧</summary>
 
 | Project | Score | Date |
 | :---: | :---: | :---: |
 | refactor_tetris | [![tsishika's 42 refactor_tetris Score](https://badge42.coday.fr/api/v2/clqkv28a0122101p49l97gk4c/project/3475094)](https://github.com/Coday-meric/badge42) | 2024.2.3 - 2024.2.4 |
 | [Hello_node]() | [![tsishika's 42 hello_node Score](https://badge42.coday.fr/api/v2/clqkv28a0122101p49l97gk4c/project/3110700)](https://github.com/Coday-meric/badge42) | 2023.6.6 - |
 
----
-## Event
-### TOYOTA × 42 Tokyo共催 自動運転ミニカーバトル (2023.11.26 - 2024.1.26)
->_⚡️『自動運転ミニカーバトル』開催⚡️
-電子制御できるミニカーを作り、レースタイムを競います🚗⏱️_ <br>
-URL : <a href ="https://twitter.com/42_tokyo/status/1750825814948729326">運営ポスト</a>　<br>
+</details>
 
-- 優勝  /  全15チーム
-- チームメンバー : <a href ="https://github.com/ssmyg">syagi</a> <a href ="https://github.com/tkuramot">tkuramot</a> <a href ="https://github.com/shmorish">shmorish</a>
-- チームアカウント : <a href ="https://github.com/TOYOTA-Rebellious-cat-bus"><b>反コウ期のネコバス
+## Piscine (2023.3.6 ~ 2023.3.31)
+
+[![tsishika's 42 stats](https://badge42.coday.fr/api/v2/clqkv28a0122101p49l97gk4c/stats?cursusId=9&coalitionId=62)](https://github.com/Coday-meric/badge42)
+
