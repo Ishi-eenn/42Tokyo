@@ -1,4 +1,4 @@
-# 42_my_logs
+# 42Tokyo
 
 ## Event
 
